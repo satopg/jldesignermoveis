@@ -1,0 +1,42 @@
+/*
+Theme Name: JL Designer Moveis
+Theme URI: https://satocorporation.com/themes/moveisplanejados/
+Author: Emerson Sato
+Author URI: https://satocorporation.com/
+Description: Temas em desenvolvimento para a empresa JL Design Moveis Planejados.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: moveis planejados, projetos em mobi, ponta grossa, parana, customização, garantia, design, cozinha, banheiro, sala, quartos
+Text Domain: JL Design Moveis
+*/
+
+/* header */
+.header{background: #eee;border-top:3px solid #222;padding: 22px 0;}
+.logo{}
+
+/* slider */
+.slider-noticia{margin-top: 30px;}
+.itens-destaques{margin-top: 30px;}
+
+/*boxes cozinha e sala*/
+.width-full-box{background: #069; padding: 30px 0; margin: 30px 0;}
+.title_box h4{background: #165572; text-transform: uppercase; color: #fff; padding: 10px; border-bottom: 3px solid #2AB6F7; border-radius: 5px;}
+.sala h4{background: #E5DA39; border-bottom: 3px solid #C98E2C; color: #222;}
+.item-futebol span{text-transform: uppercase; color: #fff; font-weight: bold; font-size: 12px; padding: 10px 0; display: inline-block;}
+.item-futebol h1{margin: 0; font-size: 18px;font-weight: bold}
+.item-futebol h1 a{color: #fff; }
+
+/*footer*/
+.footer{margin-top: 45px}
+.footer .title-box h4{background: 518c55; border-bottom: 3px solid #1A7328;}
+.footer-copy{background: 518c55; padding: 10px; color: #fff; margin-top: 45px;}
+
+/*minha conta*/
+.minha-conta li{list-style: none;}
+.minha-conta h2{text-transform: uppercase; color:#099; font-size: 16px;}
+
+/*Rodape*/
+.sobrenos-rodape{list-style: none;}
+.sobrenos-rodape{font-size: 17px; color: #069;}
+.instagram-rodape{list-style: none;}
